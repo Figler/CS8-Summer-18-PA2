@@ -1,4 +1,4 @@
-# FirstName Lastname, csil login: yourline@csil.cs.ucsb.edu
+# FirstName Lastname, csil login: yourlogin@csil.cs.ucsb.edu
 
 def drawPoly(myTurtle, n, d):
 	# TODO: Your function logic
