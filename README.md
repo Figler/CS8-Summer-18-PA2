@@ -2,7 +2,7 @@
 
 This is a template on how to properly write your file for pa2. 
 
-###Getting Started
+### Getting Started
 Download the file over GitHub or just copy and paste the raw text into your own ```.py``` file.
 
 ### Before Turnin!
